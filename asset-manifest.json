@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Messenger-clone/static/css/main.44b6f42f.chunk.css",
+    "main.js": "/Messenger-clone/static/js/main.04db8bc5.chunk.js",
+    "main.js.map": "/Messenger-clone/static/js/main.04db8bc5.chunk.js.map",
+    "runtime-main.js": "/Messenger-clone/static/js/runtime-main.67602ee3.js",
+    "runtime-main.js.map": "/Messenger-clone/static/js/runtime-main.67602ee3.js.map",
+    "static/js/2.6e89c4fc.chunk.js": "/Messenger-clone/static/js/2.6e89c4fc.chunk.js",
+    "static/js/2.6e89c4fc.chunk.js.map": "/Messenger-clone/static/js/2.6e89c4fc.chunk.js.map",
+    "index.html": "/Messenger-clone/index.html",
+    "precache-manifest.82eeb2e504a8059a9ba01ceb14ad140f.js": "/Messenger-clone/precache-manifest.82eeb2e504a8059a9ba01ceb14ad140f.js",
+    "service-worker.js": "/Messenger-clone/service-worker.js",
+    "static/css/main.44b6f42f.chunk.css.map": "/Messenger-clone/static/css/main.44b6f42f.chunk.css.map",
+    "static/js/2.6e89c4fc.chunk.js.LICENSE.txt": "/Messenger-clone/static/js/2.6e89c4fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67602ee3.js",
+    "static/js/2.6e89c4fc.chunk.js",
+    "static/css/main.44b6f42f.chunk.css",
+    "static/js/main.04db8bc5.chunk.js"
+  ]
+}
